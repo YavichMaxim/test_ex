@@ -1,7 +1,7 @@
 
 
 # movies recomendation system
-
+## делаю [тестовое задание](https://github.com/hexmyflex/test_ex/blob/main/README.txt)
 попытка построить рекомендательную систему, которая будет показывать пользователю 10 фильмов по его предпочтению 
 
 * [Обзор области](https://github.com/hexmyflex/test_ex/blob/main/Untitled.ipynb)
